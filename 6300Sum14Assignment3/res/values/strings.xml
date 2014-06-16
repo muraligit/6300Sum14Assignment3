@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">6300Sum14Assignment3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="unit_prompt">Choose Unit</string>
+    <string name="unit_left">Miles</string>
+    <string name="unit_right">Kilometers</string>
+    <string name="unit_1">Distance</string>
+    <string name="unit_2">Temperature</string>
+    <string name="unit_3">Weight</string>
+    <string name="title_activity_distance">DistanceActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_temperature">TemperatureActivity</string>
+    <string name="title_activity_weight">WeightActivity</string>
+
+</resources>
