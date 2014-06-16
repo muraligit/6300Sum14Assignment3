@@ -1,15 +1,15 @@
 6300Sum14Assignment3
 ====================
-NAME
+NAME:
 	Unitconverter
 	
-SYNOPSIS
+SYNOPSIS:
 	Android Application for converting units.
 	
-DESCRIPTION
+DESCRIPTION:
 	Unitconverter will take any decimal input and convert the number to units selected.  Length, Temperature,and Weight     conversions are allowed.
 
-USAGE
+USAGE:
   The launcher screen will allow user to select the conversion type required. After selecting the conversion type user
   clicks the 'Go' button at the bottom.  This will launch the specific conversion screen.  This screen will take a 
   decimal input and provide two radio buttons with two units.  User can select the unit to which the input should be
@@ -17,8 +17,7 @@ USAGE
   at the bootom allows the user to return to main(launcher) screen where the user can select one the of the three
   conversion options again.
 
-UNITS
-	- LENGTH
+UNITS:	- LENGTH
 		User can convert between Miles and Kilometers
 
 	- TEMPERATURE
@@ -27,7 +26,7 @@ UNITS
 	- WEIGHT
 		User can convert between Pounds and Kilograms
 
-DESIGN
+DESIGN:
   All choices are implemeted using Radiobuttons.  Switching between activites is mplemeted using button clicks at the
   bootom of each screen.  The switching is implemented by launching the conversion activity when in launcher screen. 
   The switching is implemented by calling the back press function of android when in a conversion screen.  To switch 
