@@ -17,7 +17,8 @@ USAGE:
   at the bootom allows the user to return to main(launcher) screen where the user can select one the of the three
   conversion options again.
 
-UNITS:	- LENGTH
+UNITS:	
+	- LENGTH
 		User can convert between Miles and Kilometers
 
 	- TEMPERATURE
