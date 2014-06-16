@@ -1,6 +1,7 @@
 6300Sum14Assignment3
 ====================
-NAME-
+NAME
+-
 	Unitconverter
 	
 SYNOPSIS:
