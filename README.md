@@ -4,22 +4,22 @@ NAME
 -
 	Unitconverter
 	
-SYNOPSIS:
+SYNOPSIS
 -
 	Android Application for converting units.
 	
-DESCRIPTION:
+DESCRIPTION
 -
 	Unitconverter will take any decimal input and convert the number to units selected.  Length, Temperature,and Weight     conversions are allowed.
 
 USAGE:
 -
-  The launcher screen will allow user to select the conversion type required. After selecting the conversion type user
-  clicks the 'Go' button at the bottom.  This will launch the specific conversion screen.  This screen will take a 
-  decimal input and provide two radio buttons with two units.  User can select the unit to which the input should be
-  converted to. The user can toggle between the units with the input value toggling to the unit selected.  A home button
-  at the bootom allows the user to return to main(launcher) screen where the user can select one the of the three
-  conversion options again.
+	  The launcher screen will allow user to select the conversion type required. After selecting the conversion type user
+	  clicks the 'Go' button at the bottom.  This will launch the specific conversion screen.  This screen will take a 
+	  decimal input and provide two radio buttons with two units.  User can select the unit to which the input should be
+	  converted to. The user can toggle between the units with the input value toggling to the unit selected.  A home button
+	  at the bootom allows the user to return to main(launcher) screen where the user can select one the of the three
+	  conversion options again.
 
 UNITS:	
 -
